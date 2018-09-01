@@ -6,11 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="project-springboot" />
+        <module name="project-springboot-essentials" />
+        <module name="projectspringbootessentials" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="project-springboot" target="1.6" />
-    </bytecodeTargetLevel>
   </component>
 </project>
